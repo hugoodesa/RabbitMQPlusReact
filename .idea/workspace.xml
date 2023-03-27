@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d18138f-4e75-4acf-bb5d-418a92b6c5ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/front/loja/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/loja/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/loja/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/loja/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/loja/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/loja/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/loja/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front/loja" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N9hadab4bxv353MBcYqnNzBglQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/fullProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;58825dd11a06d36d7c040ff682e6fd0c&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\dev\\fullProject\\front\\loja\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.stapassoli.mstransportadora.service.impl" />
+      <recent name="br.com.stapassoli.mstransportadora.dto.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\fullProject\ms-transportadora\ms-transportadora\src\main\java\br\com\stapassoli\mstransportadora" />
+      <recent name="C:\dev\fullProject\ms-transportadora\ms-transportadora\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.stapassoli.mstransportadora.dto.impl" />
+      <recent name="br.com.stapassoli.mstransportadora.enums" />
+      <recent name="br.com.stapassoli.msloja.enums" />
+      <recent name="br.com.stapassoli.msloja.dto" />
+      <recent name="br.com.stapassoli.mstransportadora.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClasseTeste">
+    <configuration name="ClasseTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.stapassoli.msloja.relatorio.impl.ClasseTeste" />
+      <module name="ms-loja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.stapassoli.msloja.relatorio.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsLojaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-loja" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.stapassoli.msloja.MsLojaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsTransportadoraApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-transportadora" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.stapassoli.mstransportadora.MsTransportadoraApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClasseTeste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d18138f-4e75-4acf-bb5d-418a92b6c5ad" name="Changes" comment="" />
+      <created>1679082270112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679082270112</updated>
+      <workItem from="1679082271248" duration="1091000" />
+      <workItem from="1679323020895" duration="20000" />
+      <workItem from="1679337846321" duration="2894000" />
+      <workItem from="1679342758221" duration="59000" />
+      <workItem from="1679422511240" duration="6156000" />
+      <workItem from="1679443221793" duration="6535000" />
+      <workItem from="1679510240234" duration="1454000" />
+      <workItem from="1679575154435" duration="6540000" />
+      <workItem from="1679661609982" duration="690000" />
+      <workItem from="1679679700804" duration="3276000" />
+      <workItem from="1679683884326" duration="2773000" />
+      <workItem from="1679757006618" duration="1159000" />
+      <workItem from="1679766672729" duration="1578000" />
+      <workItem from="1679874289822" duration="5757000" />
+      <workItem from="1679925317924" duration="3866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-transportadora/ms-transportadora/src/main/java/br/com/stapassoli/mstransportadora/rabbit/listner/VendaListner.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-transportadora/ms-transportadora/src/main/java/br/com/stapassoli/mstransportadora/rabbit/listner/VendaListner.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-transportadora/ms-transportadora/src/main/java/br/com/stapassoli/mstransportadora/rabbit/listner/VendaListner.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-loja/ms-loja/src/main/java/br/com/stapassoli/msloja/rabbit/listner/EntregaListner.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-loja/ms-loja/src/main/java/br/com/stapassoli/msloja/model/Venda.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-loja/ms-loja/src/main/java/br/com/stapassoli/msloja/controller/VendaController.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/ms-loja/ms-loja/src/main/java/br/com/stapassoli/msloja/relatorio/Relatorio.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ms-loja/ms-loja/src/main/java/br/com/stapassoli/msloja/controller/VendaController.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
